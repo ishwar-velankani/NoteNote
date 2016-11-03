@@ -1,24 +1,5 @@
-# README
+This is an online notebook application.
+A user can create an account and write some notes.
+A user can only see his or her own notes only .
+Each note is assocaited with a particular user.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
